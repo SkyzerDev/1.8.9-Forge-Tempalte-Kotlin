@@ -1,4 +1,4 @@
-### 1.8.9 Forge Template in Kotlin
+### 1.8.9 Forge Template for Kotlin
 
 This tempalte is meant to serve as a base configuration for gradle & loom. While creating my first mod in kotlin, I stuggled very much setting up a project. This repo is for everyone to use so they do not have to experience that.
 
